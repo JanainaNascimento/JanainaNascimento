@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Janaína
-#### Sou estudante de Segurança da informação, Programo na linguagem Python com foco em Análise de dados, e programas relacionados a redes e segurança.
-
+#### Sou estudante de Segurança da informação, programo na linguagem Python.
  <div>
      <H1> Estatística </H1>
   <a href="https://github.com/JanainaNascimento">
